@@ -1,10 +1,24 @@
 [![Node.js CI](https://github.com/benteodor/Group-work_recap/actions/workflows/ci.yml/badge.svg)](https://github.com/benteodor/Group-work_recap/actions/workflows/ci.yml)
 
 
-Dana practice 1
-Dana practice 2
-
-
-Teodor 2
-Teodor 1
+# Project Title
+ 
+Github actions practice
+ 
+## CI/CD Pipeline
+ 
+This project uses a CI/CD pipeline to automate the testing and deployment process.
+ 
+### Tools Used
+- GitHub Actions
+ 
+### Getting Started
+ 
+1. Clone the repository.
+2. Install the dependencies.
+3. Run the application.
+ 
+## Mentor
+ 
+This project is done under the mentorship of our class teacher Kalwar Santosh.
 

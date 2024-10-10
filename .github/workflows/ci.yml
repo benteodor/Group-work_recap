@@ -20,9 +20,4 @@ jobs:
     - name: Install dependencies
       run: npm install
     - name: Run tests
-      run: npm test  # This runs your tests
-
-has context menu
-
-
-has context menu
+      run: npm test  
